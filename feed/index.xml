@@ -12,32 +12,12 @@
 	<atom:link href="https://test/1/feed/" rel="self" type="application/rss+xml" />
 	<link>https://test/1</link>
 	<description>Just another WordPress site</description>
-	<lastBuildDate>Tue, 06 Jul 2021 01:33:28 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 08 Jul 2021 19:01:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>Hello world!</title>
-		<link>https://test/1/2021/07/06/hello-world/</link>
-					<comments>https://test/1/2021/07/06/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[Test]]></dc:creator>
-		<pubDate>Tue, 06 Jul 2021 01:33:28 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://test/1/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://test/1/2021/07/06/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
-		
-		
-			</item>
-	</channel>
+</channel>
 </rss>
